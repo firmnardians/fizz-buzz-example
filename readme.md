@@ -4,10 +4,16 @@ Fizz Buzz adalah sebuah program permainan kata, dimana permainan kata ini akan m
 
 ## Run Locally
 
-Clone the project & go to the project directory
+Clone the project
 
 ```bash
-  git clone https://github.com/firmnardians/fizz-buzz-example.git
+  git clone https://github.com/firmnardians/fizz-buzz-example.git FizzBuzz
+```
+
+Go to the project directory
+
+```bash
+  cd FizzBuzz
 ```
 
 Install dev dependencies
