@@ -1,3 +1,3 @@
 import FizzBuzz from '../src/helper';
 
-FizzBuzz(100);
+FizzBuzz(50);
